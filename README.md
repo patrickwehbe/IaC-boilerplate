@@ -3,9 +3,8 @@
 ## Folder Structure
 ```bash
 
-nodejs-app/
+IaC-boilerplate
 ├── charts/
-│   └── nodejs-app/
 │       └── templates/
 │           ├── deployment.yaml
 │           └── service.yaml
